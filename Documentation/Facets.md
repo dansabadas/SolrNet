@@ -1,6 +1,6 @@
 # Faceting
-
-SolrNet supports [faceted searching](http://wiki.apache.org/solr/SolrFacetingOverview).
+this is a change I want to commit
+SolrNet supports [faceted searching](http://cwiki.apache.org/solr/SolrFacetingOverview).
 
 There are basically three kinds of facet queries:
 
@@ -141,6 +141,7 @@ This sample will create two main categories by inStock(true or false) and then b
     - graphics card (2)
     ```
 
+	TODO: Need to explain scenarios
 Additional information to be found in:
 http://wiki.apache.org/solr/HierarchicalFaceting#Pivot_Facets
 
